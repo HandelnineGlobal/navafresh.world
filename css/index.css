@@ -1,0 +1,1876 @@
+/* screen - index */
+
+.index {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 1226px;
+  position: relative;
+}
+
+.index .header {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  height: 124px;
+  justify-content: space-around;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-26 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.index .frame-48 {
+  cursor: pointer;
+  position: relative;
+  width: 222.5px;
+}
+
+.index .menu {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.index .link {
+  color: var(--text-grey);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .banner-section {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 210px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-25 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .redefining-health-and-wellness {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .curate-a-better-futu {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.index .about {
+  background-color: var(--white);
+  gap: 48px;
+}
+
+.index .frame-45 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .about-us {
+  gap: 53px;
+}
+
+.index .about-nava-fresh {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span0 {
+  color: var(--secondary);
+  font-weight: 600;
+  letter-spacing: 0.50px;
+}
+
+.index .span1 {
+  letter-spacing: 0.50px;
+}
+
+.index .at-nava-fresh-we-pri {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.index .categories-of-product {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-47 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-28 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.index .browse-through-healt {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .premium-health-and-home-products {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.index .frame-4-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 120px;
+  justify-content: center;
+  padding: 0px 80px;
+  width: 100%;
+}
+
+.index .food {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+  width: 177px;
+}
+
+.index .grocery {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-26 {
+  border-radius: 74.77px/75px;
+  height: 150px;
+  width: 149.53px;
+}
+
+.index .mask-group {
+  height: 69px;
+  left: 54px;
+  position: absolute;
+  top: 87px;
+  width: 69px;
+}
+
+.index .frame-4-item {
+  align-items: center;
+  flex-direction: column;
+  gap: 19px;
+  width: 177px;
+}
+
+.index .healthcare {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .ellipse-2 {
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  width: 150px;
+}
+
+.index .mask-group-1 {
+  height: 66px;
+  left: 56px;
+  position: absolute;
+  top: 89px;
+  width: 66px;
+}
+
+.index .nutrition {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .mask-group-2 {
+  height: 70px;
+  left: 54px;
+  position: absolute;
+  top: 87px;
+  width: 70px;
+}
+
+.index .gifting {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  position: relative;
+  width: 177px;
+}
+
+.index .beverages {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .icon {
+  height: 79px;
+  left: 66px;
+  position: absolute;
+  top: 85px;
+  width: 46px;
+}
+
+.index .frame-4-item-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+  position: relative;
+  width: 177px;
+}
+
+.index .personal-care {
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.index .ellipse-27 {
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  width: 150px;
+}
+
+.index .mask-group-3 {
+  background-image: url(../img/mask-group-3@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 52px;
+  position: absolute;
+  top: 90px;
+  width: 72px;
+}
+
+.index .gifting-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .layer_1 {
+  height: 67px;
+  left: 56px;
+  position: absolute;
+  top: 91px;
+  width: 67px;
+}
+
+.index .green-band {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-46 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.index .nava-fresh-provides-a {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .contact-us {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .email-section {
+  align-self: stretch;
+  background-color: var(--white);
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  padding: 46px 0px;
+  width: 100%;
+}
+
+.index .frame-50 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.index .contact-us-get-in-touch {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.index .span0-1 {
+  letter-spacing: 0.46px;
+}
+
+.index .span1-1 {
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  letter-spacing: 0.46px;
+}
+
+.index .email-button {
+  border: 1px solid;
+  border-color: var(--secondary);
+  border-radius: 34px;
+  gap: 12px;
+  padding: 15px 33px;
+  width: 308px;
+}
+
+.index .mask-group-4 {
+  height: 20px;
+  margin-left: -0.50px;
+  position: relative;
+  width: 20px;
+}
+
+.index .infonavafreshcom {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-right: -0.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.index .addresses {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-29 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+  position: relative;
+  width: 241px;
+}
+
+.index .address {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .hygeia-building-rea {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .name {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .f-135136-kailas-va {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .x2301-bayfield-build {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.index .footer {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.index .frame-32 {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.index .x2024-nava-fresh-all-rights-reserved {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.index .about-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.index .ellipse {
+  background-color: var(--white);
+  position: relative;
+}
+
+.index .email {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  position: relative;
+}
+
+.index .frame-4-2 {
+  display: flex;
+  position: relative;
+}
+
+.index .place-3 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.index .span1-2 {
+  color: var(--primary);
+  font-weight: 700;
+}
+/* screen - navafreshu95desk-responsive */
+
+.navafreshu95desk-responsive {
+  align-items: flex-start;
+  background-color: var(--white);
+  display: flex;
+  flex-direction: column;
+  min-width: 375px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .header1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  height: 100px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-26-1 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: center;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .frame {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .menu-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  gap: 20px;
+  height: 40px;
+  justify-content: center;
+  padding: 6px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .link-1 {
+  cursor: pointer;
+  letter-spacing: 0;
+  line-height: 30px;
+  margin-top: -2.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navafreshu95desk-responsive .banner-section-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section-1.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 210px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-25-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .redefining-health-and-wellness-1 {
+  align-self: stretch;
+  letter-spacing: 0.80px;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .curate-a-better-futu-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .about1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-45-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 60px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .about-us-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .about-nava-fresh-1 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .span0-3 {
+  color: var(--secondary);
+}
+
+.navafreshu95desk-responsive .at-nava-fresh-we-pri-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.navafreshu95desk-responsive .categories-of-product1 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-47-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-28-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .browse-through-healt-1 {
+  align-self: stretch;
+  letter-spacing: 0.80px;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .premium-health-and-home-products-1 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .frame-4-3 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 120px;
+  justify-content: center;
+  padding: 0px 80px;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .food-1 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  margin-left: -21.00px;
+  margin-right: -21.00px;
+  position: relative;
+  width: 177px;
+}
+
+.navafreshu95desk-responsive .grocery-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .ellipse-26-1 {
+  background-color: var(--white);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.navafreshu95desk-responsive .mask-group-5 {
+  height: 69px;
+  left: 54px;
+  position: absolute;
+  top: 87px;
+  width: 69px;
+}
+
+.navafreshu95desk-responsive .frame-4-item-2 {
+  gap: 19px;
+}
+
+.navafreshu95desk-responsive .healthcare-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .ellipse-2-1 {
+  background-color: var(--white);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.navafreshu95desk-responsive .mask-group-6 {
+  height: 66px;
+  left: 56px;
+  position: absolute;
+  top: 89px;
+  width: 66px;
+}
+
+.navafreshu95desk-responsive .nutrition-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .mask-group-7 {
+  height: 70px;
+  left: 54px;
+  position: absolute;
+  top: 87px;
+  width: 70px;
+}
+
+.navafreshu95desk-responsive .gifting-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  margin-left: -21.00px;
+  margin-right: -21.00px;
+  position: relative;
+  width: 177px;
+}
+
+.navafreshu95desk-responsive .beverages-1 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .icon-1 {
+  height: 79px;
+  left: 66px;
+  position: absolute;
+  top: 85px;
+  width: 46px;
+}
+
+.navafreshu95desk-responsive .frame-4-item-3 {
+  gap: 20px;
+}
+
+.navafreshu95desk-responsive .personal-care-1 {
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navafreshu95desk-responsive .ellipse-27-1 {
+  background-color: var(--white);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 150px;
+}
+
+.navafreshu95desk-responsive .mask-group-8 {
+  background-image: url(../img/mask-group-8@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 52px;
+  position: absolute;
+  top: 90px;
+  width: 72px;
+}
+
+.navafreshu95desk-responsive .gifting-3 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .layer_1-1 {
+  height: 67px;
+  left: 56px;
+  position: absolute;
+  top: 91px;
+  width: 67px;
+}
+
+.navafreshu95desk-responsive .green-band-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-46-1 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .nava-fresh-provides-a-1 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .contact-us1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .email-section-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 40px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-50-1 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  margin-left: -20.50px;
+  margin-right: -20.50px;
+  position: relative;
+  width: 336px;
+}
+
+.navafreshu95desk-responsive .contact-us-get-in-touch-1 {
+  color: var(--primary);
+  flex: 1;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  letter-spacing: 0.80px;
+  line-height: 55px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .span-1 {
+  letter-spacing: 0.32px;
+}
+
+.navafreshu95desk-responsive .email-button-1 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--secondary);
+  border-radius: 34px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  margin-left: -6.50px;
+  margin-right: -6.50px;
+  padding: 15px 33px;
+  position: relative;
+  width: 308px;
+}
+
+.navafreshu95desk-responsive .mask-group-9 {
+  height: 20px;
+  margin-left: -0.50px;
+  position: relative;
+  width: 20px;
+}
+
+.navafreshu95desk-responsive .infonavafreshcom-1 {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-right: -0.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.navafreshu95desk-responsive .addresses-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-29-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 27px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .frame-4-2 {
+  flex-direction: column;
+  gap: 4px;
+  margin-left: -13.00px;
+  margin-right: -13.00px;
+  width: 241px;
+}
+
+.navafreshu95desk-responsive .address-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .hygeia-building-rea-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .name-1 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .f-135136-kailas-va-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .x2301-bayfield-build-1 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .footer-1 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 249px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95desk-responsive .x2024-nava-fresh-all-rights-reserved-1 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95desk-responsive .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.navafreshu95desk-responsive .frame-4-item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  margin-left: -21.00px;
+  margin-right: -21.00px;
+  position: relative;
+  width: 177px;
+}
+/* screen - navafreshu95tab-responsive */
+
+.navafreshu95tab-responsive {
+  align-items: flex-start;
+  flex-direction: column;
+  min-width: 964px;
+}
+
+.navafreshu95tab-responsive .header2 {
+  align-items: center;
+  align-self: stretch;
+  height: 124px;
+  justify-content: space-around;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-26-2 {
+  align-items: center;
+  display: flex;
+  flex: 1;
+  flex-grow: 1;
+  justify-content: space-between;
+  padding: 32px 82px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .frame-48-1 {
+  cursor: pointer;
+  position: relative;
+  width: 222.5px;
+}
+
+.navafreshu95tab-responsive .menu-2 {
+  align-items: center;
+  display: inline-flex;
+  flex: 0 0 auto;
+  gap: 29px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .link-2 {
+  color: var(--text-grey);
+  cursor: pointer;
+  font-weight: 500;
+  line-height: 30px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navafreshu95tab-responsive .banner-section-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-image: url(../img/banner-section.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 115px;
+  height: 736px;
+  padding: 210px 0px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-25-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 34px;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .redefining-health-and-wellness-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .curate-a-better-futu-2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .about2 {
+  align-items: center;
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 48px;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-45-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 67px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .about-us-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 53px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .about-nava-fresh-2 {
+  align-self: stretch;
+  color: transparent;
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxxl);
+  font-weight: 400;
+  letter-spacing: 1.00px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .span0-4 {
+  color: var(--secondary);
+  font-weight: 600;
+  letter-spacing: 0.50px;
+}
+
+.navafreshu95tab-responsive .span1-2 {
+  letter-spacing: 0.50px;
+}
+
+.navafreshu95tab-responsive .at-nava-fresh-we-pri-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: justify;
+}
+
+.navafreshu95tab-responsive .categories-of-product2 {
+  align-items: flex-start;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-47-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 63px;
+  padding: 100px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-28-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 16px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .browse-through-healt-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 700;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .premium-health-and-home-products-2 {
+  align-self: stretch;
+  color: var(--black);
+  font-weight: 500;
+  line-height: 36px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .frame-4-5 {
+  align-self: stretch;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 59px 120px;
+  justify-content: center;
+  padding: 0px 80px;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .food-2 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  position: relative;
+  width: 177px;
+}
+
+.navafreshu95tab-responsive .grocery-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .ellipse-26-2 {
+  background-color: var(--white);
+  border-radius: 74.77px/75px;
+  height: 150px;
+  position: relative;
+  width: 149.53px;
+}
+
+.navafreshu95tab-responsive .mask-group-10 {
+  height: 69px;
+  left: 54px;
+  position: absolute;
+  top: 87px;
+  width: 69px;
+}
+
+.navafreshu95tab-responsive .frame-4-item-4 {
+  gap: 19px;
+}
+
+.navafreshu95tab-responsive .healthcare-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .ellipse-2-2 {
+  background-color: var(--white);
+  border-radius: 75px/74.65px;
+  height: 149.3px;
+  position: relative;
+  width: 150px;
+}
+
+.navafreshu95tab-responsive .mask-group-11 {
+  height: 66px;
+  left: 56px;
+  position: absolute;
+  top: 89px;
+  width: 66px;
+}
+
+.navafreshu95tab-responsive .nutrition-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .mask-group-12 {
+  height: 70px;
+  left: 54px;
+  position: absolute;
+  top: 87px;
+  width: 70px;
+}
+
+.navafreshu95tab-responsive .gifting-4 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 21px;
+  position: relative;
+  width: 177px;
+}
+
+.navafreshu95tab-responsive .beverages-2 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .icon-2 {
+  height: 79px;
+  left: 66px;
+  position: absolute;
+  top: 85px;
+  width: 46px;
+}
+
+.navafreshu95tab-responsive .frame-4-item-5 {
+  gap: 20px;
+}
+
+.navafreshu95tab-responsive .personal-care-2 {
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.navafreshu95tab-responsive .ellipse-27-2 {
+  background-color: var(--white);
+  border-radius: 75px/75.23px;
+  height: 150.47px;
+  position: relative;
+  width: 150px;
+}
+
+.navafreshu95tab-responsive .mask-group-13 {
+  background-image: url(../img/mask-group-13@2x.png);
+  background-size: 100% 100%;
+  height: 68px;
+  left: 52px;
+  position: absolute;
+  top: 90px;
+  width: 72px;
+}
+
+.navafreshu95tab-responsive .gifting-5 {
+  align-self: stretch;
+  letter-spacing: 0.48px;
+  line-height: 28px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .layer_1-2 {
+  height: 67px;
+  left: 56px;
+  position: absolute;
+  top: 91px;
+  width: 67px;
+}
+
+.navafreshu95tab-responsive .green-band-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--secondary);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  padding: 51px 0px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-46-2 {
+  align-items: center;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  gap: 10px;
+  justify-content: center;
+  padding: 0px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .nava-fresh-provides-a-2 {
+  color: var(--white);
+  flex: 1;
+  font-weight: 700;
+  line-height: 25px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .contact-us2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .email-section-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 29px 29px;
+  justify-content: center;
+  padding: 46px 80px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-50-2 {
+  align-items: center;
+  display: flex;
+  gap: 10px;
+  position: relative;
+  width: 336px;
+}
+
+.navafreshu95tab-responsive .contact-us-get-in-touch-2 {
+  flex: 1;
+  letter-spacing: 0.96px;
+  line-height: 60px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab-responsive .span0-5 {
+  letter-spacing: 0.46px;
+}
+
+.navafreshu95tab-responsive .span1-3 {
+  font-family: var(--font-family-poppins);
+  font-size: var(--font-size-xxxl);
+  letter-spacing: 0.46px;
+}
+
+.navafreshu95tab-responsive .email-button-2 {
+  align-items: center;
+  border: 1px solid;
+  border-color: var(--secondary);
+  border-radius: 34px;
+  display: flex;
+  gap: 12px;
+  justify-content: center;
+  padding: 15px 33px;
+  position: relative;
+  width: 308px;
+}
+
+.navafreshu95tab-responsive .mask-group-14 {
+  height: 20px;
+  margin-left: -0.50px;
+  position: relative;
+  width: 20px;
+}
+
+.navafreshu95tab-responsive .infonavafreshcom-2 {
+  color: var(--black);
+  font-weight: 500;
+  line-height: normal;
+  margin-right: -0.50px;
+  margin-top: -1.00px;
+  position: relative;
+  text-align: center;
+  width: fit-content;
+}
+
+.navafreshu95tab-responsive .addresses-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--white);
+  display: flex;
+  flex: 0 0 auto;
+  flex-direction: column;
+  gap: 10px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-29-2 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  flex: 0 0 auto;
+  flex-wrap: wrap;
+  gap: 32px 42px;
+  justify-content: center;
+  padding: 53px 80px 100px;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-4-4 {
+  flex-direction: column;
+  gap: 4px;
+  width: 241px;
+}
+
+.navafreshu95tab-responsive .address-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .hygeia-building-rea-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .name-2 {
+  align-self: stretch;
+  color: var(--primary);
+  font-weight: 500;
+  line-height: 36px;
+  margin-top: -1.00px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .f-135136-kailas-va-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .x2301-bayfield-build-2 {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 30px;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .footer-2 {
+  align-items: center;
+  align-self: stretch;
+  background-color: var(--bg-green);
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 319px;
+  justify-content: center;
+  position: relative;
+  width: 100%;
+}
+
+.navafreshu95tab-responsive .frame-32-1 {
+  cursor: pointer;
+  flex: 0 0 auto;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .x2024-nava-fresh-all-rights-reserved-2 {
+  align-self: stretch;
+  color: var(--text-grey);
+  font-weight: 500;
+  line-height: 30px;
+  position: relative;
+  text-align: center;
+}
+
+.navafreshu95tab {
+  background-color: var(--white);
+  display: flex;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .frame-4 {
+  align-items: flex-start;
+  display: flex;
+  position: relative;
+}
+
+.navafreshu95tab-responsive .frame-4-item {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+  width: 177px;
+}
+
+.navafreshu95tab-responsive .span1 {
+  color: var(--primary);
+  font-weight: 700;
+}
+@media screen and (max-width: 963px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.navafreshu95tab-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 964px) and (max-width: 1225px) {
+  .screen.index { 
+    display: none;
+   }
+  .screen.navafreshu95desk-responsive { 
+    display: none;
+   }
+}
+@media screen and (min-width: 1226px) {
+  .screen.navafreshu95desk-responsive { 
+    display: none;
+   }
+  .screen.navafreshu95tab-responsive { 
+    display: none;
+   }
+}
